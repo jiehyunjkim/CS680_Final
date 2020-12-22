@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>CS680_Test</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>hw.xml</name>
+			<type>1</type>
+			<location>C:/Users/Jiehyun/eclipse-workspace/CS680_Test/hw.xml</location>
+		</link>
+		<link>
+			<name>hw02.xml</name>
+			<type>1</type>
+			<location>C:/Users/Jiehyun/eclipse-workspace/CS680_Test/hw02.xml</location>
+		</link>
+		<link>
+			<name>src/edu</name>
+			<type>2</type>
+			<location>C:/Users/Jiehyun/eclipse-workspace/CS680_Test/src/edu</location>
+		</link>
+	</linkedResources>
+</projectDescription>
